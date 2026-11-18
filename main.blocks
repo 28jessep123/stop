@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_gesture_event" id="E`Li:~RLD?w?vWsL=J,q" x="0" y="0"><field name="NAME">Gesture.LogoDown</field><statement name="HANDLER"><block type="basic_show_icon" id="BuQ%*fAHGQ0?A({e!~e#"><field name="i">IconNames.Yes</field></block></statement></block></xml>
